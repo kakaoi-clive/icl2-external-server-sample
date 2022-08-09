@@ -1,0 +1,5 @@
+protobuf==3.17.3
+PyJWT==2.4.0
+six==1.16.0
+uvicorn
+fastapi
